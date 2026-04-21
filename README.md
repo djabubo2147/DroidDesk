@@ -174,6 +174,15 @@ Add this line:
 
 ## Notes
 
+> [!WARNING]
+> **Disable Child Process in Developer Options**
+> On some Android versions (MIUI, One UI, stock Android 13+), the system may kill Termux background processes and drop your desktop session. To prevent this:
+> 1. Go to **Settings → Developer Options**
+> 2. Find **"Child process"** (may be labeled differently depending on your ROM)
+> 3. Disable child process restrictions for Termux
+>
+> Without this, long-running sessions (VNC, Termux-X11) may be killed by the OS without warning.
+
 - Termux-X11 directly on the phone is faster than VNC. Use VNC only when you need monitor output through the Pi bridge or remote access from another device.
 - For standalone phone use without a monitor, Termux-X11 is the recommended option.
 - The Proot container shares the display with the native Termux desktop. Apps installed in Proot render on the same screen.
