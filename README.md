@@ -36,7 +36,7 @@ The automatic menu sync scans what you install inside Proot and adds it directly
 - [Termux](https://f-droid.org/en/packages/com.termux/) (install from F-Droid, not Play Store)
 - [Termux-X11](https://github.com/termux/termux-x11/releases/tag/nightly) (for on-phone display)
 
-### For Monitor Output (Optional)
+### For Monitor Output ( Optional )
 
 **Option A: USB-C Display Output**
 If your phone supports display output over USB-C, just use a USB-C to HDMI adapter. Done.
